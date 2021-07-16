@@ -1,5 +1,15 @@
-### Hi there 👋
+### 👋 Hi there
+My name is Jinhwan Kim. I'm Interesting in Deep Learning especially in Offline Reinforcement Learning, Model-based Reinforcement Learning, Computer Vision
 
+🔭 I’m currently working on Image to Image Transfer
+
+🌱 I’m currently learning on Flask
+
+📫 How to reach me: may3210@g.skku.edu
+
+### 💪 Skill
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
 <!--
 **RicardoKim/RicardoKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
