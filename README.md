@@ -1,6 +1,8 @@
 ### 👋 Hi there
 My name is Jinhwan Kim. I'm Interesting in Deep Learning especially in Offline Reinforcement Learning, Model-based Reinforcement Learning, Computer Vision
 
+I am currently studying at Sungkyunkwan University and majoring in mechanical engineering and software engineering.
+
 🔭 I’m currently working on Image to Image Transfer
 
 🌱 I’m currently learning on Flask
