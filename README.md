@@ -3,9 +3,9 @@ My name is Jinhwan Kim. I'm Interesting in Deep Learning especially in Offline R
 
 I am currently studying at Sungkyunkwan University and majoring in Mechanical engineering and Software engineering.
 
-🔭 I’m currently working on Image to Image Transfer
+🔭 I’m currently working on Sever_for_AI
 
-🌱 I’m currently learning on Flask
+🌱 I’m currently learning on Java Programming language
 
 📫 How to reach me: may3210@g.skku.edu
 
