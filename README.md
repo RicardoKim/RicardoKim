@@ -1,7 +1,7 @@
 ### 👋 Hi there
 My name is Jinhwan Kim. I'm Interesting in Deep Learning especially in Offline Reinforcement Learning, Model-based Reinforcement Learning, Computer Vision
 
-I am currently studying at Sungkyunkwan University and majoring in Mechanical engineering and Software engineering.
+I am currently studying at Sungkyunkwan University and majore in Mechanical engineering and Software engineering.
 
 🔭 I’m currently working on Sever_for_AI
 
